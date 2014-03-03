@@ -1,8 +1,9 @@
-# 2014-03-05-make-change
+# Make Change - 2014/03/05
 Suppose we are programming a vending machine. When a customer inserts money and
 purchases a product from our machine, we might owe them change. The idea behind
 this kata is simple: given an amount of money, return to the user the proper
-amount of change. Essentially, make change for the user.
+amount of change (with right number of coins, in USD currencies).
+Essentially, make change for the user.
 
 ## Example Usage
 Let's see how we aim to use this class when we're done.
