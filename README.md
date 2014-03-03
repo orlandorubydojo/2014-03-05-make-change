@@ -21,9 +21,9 @@ mc.change(104)
 ```
 
 ## Resources
-The following resources will help ramp you up for the dojo. Don't let this intimidate you! At the dojo, we're all here to help each other.
+The following resources will help ramp you up for the dojo. You should by no means feel like you need to know (or understand) all (or even most) of this information. At the dojo, we're all here to help each other.
 - If you're new to Ruby, I recommend going through the http://tryruby.org tutorial before the meeting.
-- RSpec cheat sheet. I will have copies for the meeting, but you may want to review. http://www.anchor.com.au/blog/2013/03/updated-rspec-cheatsheet/
+- RSpec (testing) cheat sheet. I will have copies for the meeting, but you may want to review. http://www.anchor.com.au/blog/2013/03/updated-rspec-cheatsheet/
 
 ## Homework
 This will be updated after the dojo!
